@@ -13,19 +13,11 @@ img {
   margin-bottom: 25px;
 }
 
-.icon_apropos {
-  width: 25px;
-  height: 25px;
+.fontxxx {
+  font-size: 1.2em;
 }
 
-.icon_formation
-.icon_experience
-.icon_competence
-.icon_loisir
-.icon_contact
-
 .pcolor {
-  color : green;
   font-weight: bold;
 }
 
@@ -165,7 +157,7 @@ a:after {
 
 /* Header Wrap */
 #headerwrap {
-	background: url(../img/background-2.jpg) no-repeat center top;
+	background: url(../img/bg_kb.jpg) no-repeat center top;
 	margin-top: 60px;
 	padding-top:140px;
 	text-align:center;
